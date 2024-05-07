@@ -2,6 +2,23 @@
 
 Quickly add statistics about the current Helia instance to your web app.
 
+## Build
+
+To build this project, clone the repository at https://github.com/haydenyoung/helia-stats and then run:
+
+```
+npm run build
+```
+
+To run the example embed, first build the project and then start the Vite server:
+
+```
+npm run build
+npm run dev
+```
+
+Use the instructions provided to browser to the example in your web browser.
+
 ## Usage
 
 ### Include as a module
